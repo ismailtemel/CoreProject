@@ -5820,11 +5820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\CoreDemo\\DataAccessLayer\\obj\\",
+      "outputPath": "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5845,8 +5845,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+            "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

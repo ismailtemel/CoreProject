@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l9tTXPdFaqvpMK5k75rKKyZJx+984wmuHcSPzsZtweIq5M0DxkRPRtER0W+tjyy8P+Qywy9Ad8d5Oqtiel+K2w==",
+  "dgSpecHash": "CIj162EojBeHl7WkRk9eX4fklcWEAyKuySOJr1gytZ97t56P2BGyVhjQAAjdHQge1d8UUMFAN+GRj+3Kizt8BA==",
   "success": true,
-  "projectFilePath": "D:\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "D:\\CoreProject\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {}
+    "D:\\CoreProject\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {}
   },
   "projects": {
-    "D:\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
+    "D:\\CoreProject\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "D:\\CoreProject\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "D:\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "D:\\CoreProject\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\CoreDemo\\BusinessLayer\\obj\\",
+        "outputPath": "D:\\CoreProject\\CoreDemo\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {
+    "D:\\CoreProject\\CoreDemo\\CoreDemo\\CoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+        "projectUniqueName": "D:\\CoreProject\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
         "projectName": "CoreDemo",
-        "projectPath": "D:\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+        "projectPath": "D:\\CoreProject\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\CoreDemo\\CoreDemo\\obj\\",
+        "outputPath": "D:\\CoreProject\\CoreDemo\\CoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,14 +97,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "D:\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
+              "D:\\CoreProject\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "D:\\CoreProject\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\CoreDemo\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\CoreProject\\CoreDemo\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,8 +190,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -246,14 +246,14 @@
         }
       }
     },
-    "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+    "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\CoreDemo\\EntityLayer\\obj\\",
+        "outputPath": "D:\\CoreProject\\CoreDemo\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ssARDzQVwanN5MBRvXEtd0XTFlsp/o/vy30mi6wcuIr03OH61HXBjiaHTwoxabdUBzyRXvvwpIzJCJ3DQ2pheg==",
+  "dgSpecHash": "lpYAfyi6lhKdse0U+Tgx1CUZY9s5caL/oFca0rF0k9Fp4j7I8NGUQ9giffbLfdnQhV/mU/PpTw5rX2/BRKI+/w==",
   "success": true,
-  "projectFilePath": "D:\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "D:\\CoreProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
