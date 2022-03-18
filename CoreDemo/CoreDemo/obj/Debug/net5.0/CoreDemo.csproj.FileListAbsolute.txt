@@ -304,3 +304,9 @@ D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.dll
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.pdb
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partail1.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
