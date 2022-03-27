@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Abstract
 {
-    public interface IWriterService
+    public interface IWriterService:IGenericService<Writer>
     {
-        void WriterAdd(Writer writer);
+        List<Writer> GetWritetById(int id);
+
+        //void WriterAdd(Writer writer);
         //void CategoryDelete(Writer writer);
         //void CategoryUpdate(Writer writer);
         //List<Writer> GetList();
