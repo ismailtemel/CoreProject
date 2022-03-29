@@ -348,3 +348,5 @@ D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterEditProfile.cshtml.g.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Writer\WriterAdd.cshtml.g.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Notification\AllNotification.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\Inbox.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\MessageDetails.cshtml.g.cs

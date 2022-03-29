@@ -14,7 +14,6 @@ namespace CoreDemo.Controllers
     {
         BlogManager bm = new BlogManager(new EfBlogRepository());
 
-        [AllowAnonymous]
         public IActionResult Index()
         {
             Context c = new Context();
