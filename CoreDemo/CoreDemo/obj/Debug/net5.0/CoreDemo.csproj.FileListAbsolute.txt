@@ -371,3 +371,15 @@ D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\Statistic4\Default.cshtml.g.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Chart\Index.cshtml.g.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Writer\Index.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\BlogApiDemo.deps.json
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\BlogApiDemo.runtimeconfig.json
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\BlogApiDemo.runtimeconfig.dev.json
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\BlogApiDemo.exe
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\BlogApiDemo.dll
+D:\CoreProject\CoreDemo\CoreDemo\bin\Debug\net5.0\BlogApiDemo.pdb
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\EmployeeTest\Index.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\EmployeeTest\AddEmployee.cshtml.g.cs
