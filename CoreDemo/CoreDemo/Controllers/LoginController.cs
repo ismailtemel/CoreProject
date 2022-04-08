@@ -45,11 +45,16 @@ namespace CoreDemo.Controllers
             }
             return View();
         }
+        public async Task<IActionResult> LogOut()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Index", "Login");
+        }
+    }
+}
 
 
-
-
-        //[HttpPost]
+//[HttpPost]
 
         ////public async Task<IActionResult> Index(Writer p)
         //{
@@ -72,8 +77,6 @@ namespace CoreDemo.Controllers
         //    }
 
         //}
-    }
-}
 //Context c = new Context();
 //var datavalue = c.Writers.FirstOrDefault(x => x.WriterMail == p.WriterMail && x.WriterPassword == p.WriterPassword);
 //if (datavalue != null)
