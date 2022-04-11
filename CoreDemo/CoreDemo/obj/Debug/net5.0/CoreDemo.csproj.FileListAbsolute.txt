@@ -395,3 +395,11 @@ D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Message\SendBox.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminMessage\Inbox.cshtml.g.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminMessage\Sendbox.cshtml.g.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminMessage\ComposeMessage.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminBlog\Index.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminComment\Index.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRol\Index.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRol\AddRole.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRol\UpdateRole.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRol\UserRoleList.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRol\AssignRole.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
