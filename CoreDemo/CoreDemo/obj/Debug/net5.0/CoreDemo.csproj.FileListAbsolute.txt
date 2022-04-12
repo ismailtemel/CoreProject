@@ -403,3 +403,4 @@ D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminR
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRol\UserRoleList.cshtml.g.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRol\AssignRole.cshtml.g.cs
 D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\CoreProject\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Login\AccessDenied.cshtml.g.cs
